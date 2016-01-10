@@ -1,0 +1,28 @@
+name: Taksi
+favicon: null
+layout_spectrum: 0.07298181066289544
+typography_spectrum: 0.38243581890128553
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.18256252072751522
+  lightness: 0.9552078195847571
+  saturation: 0.4240619686897844
+  rhythmicContrast: 0.06002598977647722
+purpose: []
